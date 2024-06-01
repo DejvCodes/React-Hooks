@@ -1,0 +1,23 @@
+.text-btn-changer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.text-btn-changer h2 {
+  font-size: 32px;
+  text-align: center;
+}
+.text-btn-changer button {
+  width: 250px;
+  font-size: 18px;
+  margin: 8px;
+  padding: 7px 15px;
+  border-radius: 18px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.25s linear;
+}
+.text-btn-changer button:hover {
+  transform: scale(1.05);
+}
