@@ -1,4 +1,4 @@
-## Project in React with useState git add
+## Project in React with useState
 •  useState is a hook in React ✅
 
 ## Screenshots 📱
